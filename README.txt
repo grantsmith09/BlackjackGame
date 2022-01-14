@@ -1,4 +1,5 @@
-# 353FinalProject
+353FinalProject
+
 **REQUIREMENTS**
 
 LCD: Graphics
