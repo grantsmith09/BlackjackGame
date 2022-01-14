@@ -1,4 +1,4 @@
-353FinalProject
+ECE 353 Final Group Project
 
 **REQUIREMENTS**
 
