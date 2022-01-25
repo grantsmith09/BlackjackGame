@@ -1,4 +1,6 @@
-ECE 353 Final Group Project
+# ECE 353 Final Group Project
+
+Final Overview Video: https://youtu.be/ZUy1V-YMWh0
 
 **REQUIREMENTS**
 
